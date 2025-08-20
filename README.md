@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Estudante de Sistemas de Informação | 👨‍💻 Desenvolvedor em formação <br>
-🚀 Apaixonado por tecnologia, automação e boas ideias
+🚀 Entsiasta de tecnologia, automação e Inteligência Artificial
 </p>
 
 ---
@@ -11,7 +11,6 @@
 
 - 🎓 Cursando **Sistemas de Informação** na **PUC Minas - Betim**
 - 🔍 Buscando oportunidades de **estágio**
-- 🤖 Criador do projeto **ChatFlex** — chatbot para negócios locais via WhatsApp
 - 💡 Interesses: Desenvolvimento Web, APIs, Automação com Bots, e Inteligência Artificial
 
 ---
@@ -33,7 +32,6 @@
 ### Projetos em Destaque
 
 - 🔹 [Catálogo de Filmes](https://github.com/seuusuario/catalogo-filmes) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
-- 🔹 [ChatFlex](https://github.com/seuusuario/atendebot) – Node.js + Twilio + API GPT para WhatsApp
 - 🔹 [Gestão Financeira](https://github.com/seuusuario/gestao-financeira) – Projeto em construção
 
 ---
