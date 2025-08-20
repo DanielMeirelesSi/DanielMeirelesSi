@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Estudante de Sistemas de Informação | 👨‍💻 Desenvolvedor em formação <br>
-🚀 Entsiasta de tecnologia, automação e Inteligência Artificial
+🚀 Entusiasta de tecnologia, automação e Inteligência Artificial
 </p>
 
 ---
