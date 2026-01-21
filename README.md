@@ -1,8 +1,8 @@
 # Daniel Meireles
 
-Olá! Meu nome é Daniel, atualmente sou estudante de Sistemas de Informação na PUC Minas (Betim), com foco em desenvolvimento de software e aprendizado contínuo por meio de projetos práticos.
+Olá! Meu nome é Daniel, sou estudante de Sistemas de Informação na PUC Minas (Betim), com foco em desenvolvimento de software e aprendizado contínuo por meio de projetos práticos.
 
-Atualmente direciono meus estudos para desenvolvimento web e backend, modelos de negócios, estrutura de redes e automações. Busco construir uma base sólida em programação, lógica e boas práticas de desenvolvimento.
+Atualmente direciono meus estudos para desenvolvimento web e backend, buscando construir uma base sólida em programação, lógica e boas práticas de desenvolvimento.
 
 ---
 
@@ -17,7 +17,7 @@ Atualmente direciono meus estudos para desenvolvimento web e backend, modelos de
 
 ## Tecnologias e ferramentas
 
-### Principais tecnologias
+### Tecnologias principais
 - C# (linguagem principal de estudo e prática)
 - JavaScript
 - HTML5
@@ -38,7 +38,7 @@ Atualmente direciono meus estudos para desenvolvimento web e backend, modelos de
 
 ## Aprendizado em andamento
 
-Atualmente, além das tecnologias principais, estou expandindo meus estudos para outras linguagens e conceitos, como:
+Além das tecnologias principais, estou expandindo meus estudos para outras linguagens e conceitos, como:
 
 - Java
 - Linguagem C
@@ -50,7 +50,7 @@ Atualmente, além das tecnologias principais, estou expandindo meus estudos para
 
 ## Sobre este GitHub
 
-Aqui você encontrará projetos de estudo, projetos pessoais e trabalhos acadêmicos, utilizados como forma de aprendizado prático e evolução técnica contínua.
+Aqui você encontra projetos de estudo, projetos pessoais e trabalhos acadêmicos, utilizados como forma de aprendizado prático e evolução técnica contínua.
 
 Os repositórios refletem meu progresso ao longo do tempo, desde conceitos básicos até aplicações mais estruturadas.
 
@@ -64,6 +64,5 @@ Desenvolver uma base técnica consistente, aliando teoria e prática, com foco e
 
 ## Contato
 
-- LinkedIn: www.linkedin.com/in/daniel-meireles-343821354
-
-- Email: daniel.meireles.pro@gmail.com
+- LinkedIn: https://www.linkedin.com/in/daniel-meireles-343821354
+- E-mail: daniel.meireles.pro@gmail.com
