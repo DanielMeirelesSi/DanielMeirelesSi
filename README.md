@@ -1,57 +1,69 @@
-<h1 align="center">Olá, eu sou o Daniel Meireles 👋</h1>
+# Daniel Meireles
 
-<p align="center">
-💻 Estudante de Sistemas de Informação | 👨‍💻 Desenvolvedor em formação <br>
-🚀 Entusiasta de tecnologia, automação e Inteligência Artificial
-</p>
+Olá! Meu nome é Daniel, atualmente sou estudante de Sistemas de Informação na PUC Minas (Betim), com foco em desenvolvimento de software e aprendizado contínuo por meio de projetos práticos.
 
----
-
-### 👨‍🎓 Sobre mim
-
-- 🎓 Cursando **Sistemas de Informação** na **PUC Minas - Betim**
-- 🔍 Buscando oportunidades de **estágio**
-- 💡 Interesses: Desenvolvimento Web, APIs, Automação com Bots, e Inteligência Artificial
+Atualmente direciono meus estudos para desenvolvimento web e backend, modelos de negócios, estrutura de redes e automações. Busco construir uma base sólida em programação, lógica e boas práticas de desenvolvimento.
 
 ---
 
-### Tecnologias & Ferramentas
+## Sobre mim
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
-</div>
+- Estudante de Sistemas de Informação – PUC Minas (Betim)
+- Desenvolvedor em formação
+- Buscando oportunidade de estágio na área de tecnologia
+- Aprendizado orientado à prática, projetos pessoais e acadêmicos
 
 ---
 
-### Projetos em Destaque
+## Tecnologias e ferramentas
 
-- 🔹 [Catálogo de Filmes](https://github.com/seuusuario/catalogo-filmes) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
-- 🔹 [Gestão Financeira](https://github.com/seuusuario/gestao-financeira) – Projeto em construção
+### Principais tecnologias
+- C# (linguagem principal de estudo e prática)
+- JavaScript
+- HTML5
+- CSS3
 
----
+### Frameworks e bibliotecas
+- Bootstrap
+- .NET (conceitos e aplicações backend)
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
----
-
-### 📫 Como me encontrar:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seunome/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuuser)
+### Conceitos e práticas
+- Desenvolvimento web
+- APIs REST
+- Lógica de programação
+- Versionamento com Git e GitHub
+- Estruturação e organização de projetos
 
 ---
 
-<p align="center">By Daniel Meireles</p>
+## Aprendizado em andamento
 
+Atualmente, além das tecnologias principais, estou expandindo meus estudos para outras linguagens e conceitos, como:
+
+- Java
+- Linguagem C
+- Banco de dados e modelagem
+- Arquiteturas e fundamentos de sistemas
+- Orientação a Objetos
+
+---
+
+## Sobre este GitHub
+
+Aqui você encontrará projetos de estudo, projetos pessoais e trabalhos acadêmicos, utilizados como forma de aprendizado prático e evolução técnica contínua.
+
+Os repositórios refletem meu progresso ao longo do tempo, desde conceitos básicos até aplicações mais estruturadas.
+
+---
+
+## Objetivo profissional
+
+Desenvolver uma base técnica consistente, aliando teoria e prática, com foco em ingressar no mercado como estagiário na área de tecnologia e evoluir profissionalmente como desenvolvedor de software.
+
+---
+
+## Contato
+
+- LinkedIn: www.linkedin.com/in/daniel-meireles-343821354
+
+- Email: daniel.meireles.pro@gmail.com
