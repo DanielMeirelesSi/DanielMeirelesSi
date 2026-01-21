@@ -15,19 +15,20 @@ Atualmente direciono meus estudos para desenvolvimento web e backend, buscando c
 
 ---
 
-## Tecnologias e ferramentas
+## Ferramentas e tecnologia
 
-### Tecnologias principais
+### Principais usos
+
 - C# (linguagem principal de estudo e prática)
 - JavaScript
 - HTML5
 - CSS3
 
-### Frameworks e bibliotecas
+### Frameworks e Bibliotecas
 - Bootstrap
 - .NET (conceitos e aplicações backend)
 
-### Conceitos e práticas
+### Conceitos base e práticas
 - Desenvolvimento web
 - APIs REST
 - Lógica de programação
@@ -45,6 +46,12 @@ Além das tecnologias principais, estou expandindo meus estudos para outras ling
 - Banco de dados e modelagem
 - Arquiteturas e fundamentos de sistemas
 - Orientação a Objetos
+
+---
+## Habilidades adicionais em evolução
+
+- Leitura e compreensão de documentação técnica em inglês
+- Comunicação escrita em inglês em contexto técnico
 
 ---
 
