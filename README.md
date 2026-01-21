@@ -15,9 +15,9 @@ Atualmente direciono meus estudos para desenvolvimento web e backend, buscando c
 
 ---
 
-## Ferramentas e tecnologia
+## Ferramentas e Tecnologia
 
-### Principais usos
+### Linguagens e tecnologias principais
 
 - C# (linguagem principal de estudo e prática)
 - JavaScript
@@ -52,6 +52,7 @@ Além das tecnologias principais, estou expandindo meus estudos para outras ling
 
 - Leitura e compreensão de documentação técnica em inglês
 - Comunicação escrita em inglês em contexto técnico
+- Comunicação oral e compreensão auditiva em inglês em constante evolução
 
 ---
 
