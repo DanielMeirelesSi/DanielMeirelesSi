@@ -1,76 +1,103 @@
-# Daniel Meireles
+<h1 align="center">Olá, eu sou o Daniel Meireles</h1>
 
-Olá! Meu nome é Daniel, sou estudante de Sistemas de Informação na PUC Minas (Betim), com foco em desenvolvimento de software e aprendizado contínuo por meio de projetos práticos.
+<p align="center">
+  Sistemas de Informação | Backend | APIs REST | C# | ASP.NET Core
+</p>
 
-Atualmente direciono meus estudos para desenvolvimento web e backend, buscando construir uma base sólida em programação, lógica e boas práticas de desenvolvimento.
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-meireles-343821354">LinkedIn</a> •
+  <a href="mailto:daniel.meireles.pro@gmail.com">E-mail</a> •
+</p>
 
 ---
 
 ## Sobre mim
 
-- Estudante de Sistemas de Informação – PUC Minas (Betim)
-- Desenvolvedor em formação
-- Buscando oportunidade de estágio na área de tecnologia
-- Aprendizado orientado à prática, projetos pessoais e acadêmicos
+Sou estudante de Sistemas de Informação na PUC Minas e tenho direcionado meus estudos para desenvolvimento backend, APIs REST, banco de dados e soluções web.
+
+Gosto de criar projetos práticos para aplicar o que estudo, principalmente envolvendo C#, ASP.NET Core, JavaScript, MySQL e integração entre front-end e back-end.
+
+Atualmente venho construindo uma base sólida em desenvolvimento de software, com foco em organização de código, lógica, APIs, sistemas internos e aplicações funcionais.
 
 ---
 
-## Ferramentas e Tecnologia
+## Tecnologias e ferramentas
 
-### Linguagens e tecnologias principais
+<div align="left">
 
-- C# (linguagem principal de estudo e prática)
-- JavaScript
-- HTML5
-- CSS3
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 
-### Frameworks e Bibliotecas
-- Bootstrap
-- .NET (conceitos e aplicações backend)
-
-### Conceitos base e práticas
-- Desenvolvimento web
-- APIs REST
-- Lógica de programação
-- Versionamento com Git e GitHub
-- Estruturação e organização de projetos
+</div>
 
 ---
 
-## Aprendizado em andamento
+## Principais stacks
 
-Além das tecnologias principais, estou expandindo meus estudos para outras linguagens e conceitos, como:
-
-- Java
-- Linguagem C
-- Banco de dados e modelagem
-- Arquiteturas e fundamentos de sistemas
-- Orientação a Objetos
-
----
-## Habilidades adicionais em evolução
-
-- Leitura e compreensão de documentação técnica em inglês
-- Comunicação escrita em inglês em contexto técnico
-- Comunicação oral e compreensão auditiva em inglês em constante evolução
+**Backend:** C#, ASP.NET Core Web API, Entity Framework Core, APIs REST e Swagger  
+**Front-end:** HTML, CSS, JavaScript, Bootstrap e consumo de APIs  
+**Banco de dados:** MySQL, modelagem de dados, consultas SQL e migrations  
+**Ferramentas:** Git, GitHub, VS Code, MySQL Workbench, Postman e Vercel
 
 ---
 
-## Sobre este GitHub
+## Projetos
 
-Aqui você encontra projetos de estudo, projetos pessoais e trabalhos acadêmicos, utilizados como forma de aprendizado prático e evolução técnica contínua.
+### KM-Control
 
-Os repositórios refletem meu progresso ao longo do tempo, desde conceitos básicos até aplicações mais estruturadas.
+Sistema web para controle de veículos, abastecimentos, consumo médio, custo por km e histórico de uso.
+
+Tecnologias: C#, ASP.NET Core Web API, Entity Framework Core, MySQL, HTML, CSS e JavaScript.
 
 ---
 
-## Objetivo profissional
+### CinemaTicketsAPI
 
-Desenvolver uma base técnica consistente, aliando teoria e prática, com foco em ingressar no mercado como estagiário na área de tecnologia e evoluir profissionalmente como desenvolvedor de software.
+API para simular venda de ingressos de cinema, com controle de filmes, sessões, assentos e prevenção de venda duplicada.
+
+Tecnologias: C#, ASP.NET Core Web API e Swagger.
+
+---
+
+### Algoritmo do Banqueiro
+
+Projeto em C# baseado no Algoritmo do Banqueiro, aplicado em Sistemas Operacionais para prevenção de deadlocks.
+
+Tecnologias: C# e conceitos de concorrência, alocação de recursos e segurança de estado.
+
+---
+
+### M Móveis Rústicos
+
+Landing page responsiva para apresentação de móveis rústicos, com catálogo visual, filtros de produtos e contato via WhatsApp.
+
+Tecnologias: HTML, CSS, JavaScript e Vercel.
+
+---
+
+## Em evolução
+
+Atualmente venho aprofundando meus conhecimentos em:
+
+- Desenvolvimento de APIs REST
+- Programação orientada a objetos
+- Banco de dados relacional
+- Integração entre front-end e back-end
+- Arquitetura de software
+- Testes automatizados
+- Inglês técnico
 
 ---
 
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/daniel-meireles-343821354
+- GitHub: https://github.com/DanielMeirelesSi
 - E-mail: daniel.meireles.pro@gmail.com
