@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-meireles-343821354">LinkedIn</a> •
-  <a href="mailto:daniel.meireles.pro@gmail.com">E-mail</a> •
+  <a href="mailto:daniel.meireles.pro@gmail.com">E-mail</a>
 </p>
 
 ---
