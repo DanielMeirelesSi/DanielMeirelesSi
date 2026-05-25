@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Daniel Meireles</h1>
+<h1 align="center">Olá, sou Daniel Meireles</h1>
 
 <p align="center">
   Sistemas de Informação | Backend | APIs REST | C# | ASP.NET Core
