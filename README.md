@@ -1,103 +1,79 @@
-<h1 align="center">Olá, sou Daniel Meireles</h1>
+<h1 align="center">
+  Olá, eu sou Daniel Meireles
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616494.png" width="38" />
+</h1>
 
 <p align="center">
-  Sistemas de Informação | Backend | APIs REST | C# | ASP.NET Core
+  <b>Desenvolvedor Fullstack | C# | ASP.NET Core | SQL</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-meireles-343821354">LinkedIn</a> •
-  <a href="mailto:daniel.meireles.pro@gmail.com">E-mail</a>
+  Crio sistemas web, APIs e soluções digitais focadas em problemas reais.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## Sobre mim
+Gosto de transformar lógica complexa em sistemas estruturados e eficientes. 
+O meu foco é desenvolver aplicações que façam sentido no uso prático do dia a dia, garantindo regras de negócio bem implementadas, código limpo e foco na experiência de quem utiliza, atuando desde o banco de dados até a interface web.
 
-Sou estudante de Sistemas de Informação na PUC Minas e tenho direcionado meus estudos para desenvolvimento backend, APIs REST, banco de dados e soluções web.
+## 🌐 Onde me encontrar
 
-Gosto de criar projetos práticos para aplicar o que estudo, principalmente envolvendo C#, ASP.NET Core, JavaScript, MySQL e integração entre front-end e back-end.
-
-Atualmente venho construindo uma base sólida em desenvolvimento de software, com foco em organização de código, lógica, APIs, sistemas internos e aplicações funcionais.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Meireles-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-meireles-343821354)
+[![Email](https://img.shields.io/badge/Email-daniel.meireles.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.meireles.pro@gmail.com)
 
 ---
 
-## Tecnologias e ferramentas
+## 💻 Tech Stack
 
-<div align="left">
+### Backend & Banco de Dados
+![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Ferramentas & Deploy
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🧩 Projetos em Destaque
+
+* **[KM-Control](https://github.com/DanielMeirelesSi/KM-Control.git):** Sistema web desenvolvido para controle de veículos e gestão de abastecimentos. Construído com ASP.NET Core Web API no backend e HTML/CSS/JS no frontend.
+* **[CinemaTicketsAPI](https://github.com/DanielMeirelesSi/CinemaTicketsAPI.git):** API REST em C# com regras de negócio focadas no controle de sessões de cinema, prevenção de vendas duplicadas e gestão de assentos.
+* **[M Móveis Rústicos](https://github.com/DanielMeirelesSi/Mmoveis.git):** Landing page responsiva e catálogo visual para apresentação de produtos, com deploy na Vercel.
+* **[InternalTicketsAPI](https://github.com/DanielMeirelesSi/InternalTicketsAPI.git):** API para controle de chamados internos entre setores, desenvolvida com Node.js e Express.
+* **[Algoritmo do Banqueiro](https://github.com/DanielMeirelesSi/SO-T1-Algoritmo-do-Banqueiro.git):** Implementação em C# baseada em Sistemas Operacionais para prevenção de *deadlocks* e alocação de recursos.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DanielMeirelesSi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 ---
 
-## Principais stacks
-
-**Backend:** C#, ASP.NET Core Web API, Entity Framework Core, APIs REST e Swagger  
-**Front-end:** HTML, CSS, JavaScript, Bootstrap e consumo de APIs  
-**Banco de dados:** MySQL, modelagem de dados, consultas SQL e migrations  
-**Ferramentas:** Git, GitHub, VS Code, MySQL Workbench, Postman e Vercel
-
----
-
-## Projetos
-
-### KM-Control
-
-Sistema web para controle de veículos, abastecimentos, consumo médio, custo por km e histórico de uso.
-
-Tecnologias: C#, ASP.NET Core Web API, Entity Framework Core, MySQL, HTML, CSS e JavaScript.
-
----
-
-### CinemaTicketsAPI
-
-API para simular venda de ingressos de cinema, com controle de filmes, sessões, assentos e prevenção de venda duplicada.
-
-Tecnologias: C#, ASP.NET Core Web API e Swagger.
-
----
-
-### Algoritmo do Banqueiro
-
-Projeto em C# baseado no Algoritmo do Banqueiro, aplicado em Sistemas Operacionais para prevenção de deadlocks.
-
-Tecnologias: C# e conceitos de concorrência, alocação de recursos e segurança de estado.
-
----
-
-### M Móveis Rústicos
-
-Landing page responsiva para apresentação de móveis rústicos, com catálogo visual, filtros de produtos e contato via WhatsApp.
-
-Tecnologias: HTML, CSS, JavaScript e Vercel.
-
----
-
-## Em evolução
-
-Atualmente venho aprofundando meus conhecimentos em:
-
-- Desenvolvimento de APIs REST
-- Programação orientada a objetos
-- Banco de dados relacional
-- Integração entre front-end e back-end
-- Arquitetura de software
-- Testes automatizados
-- Inglês técnico
-
----
-
-## Contato
-
-- LinkedIn: https://www.linkedin.com/in/daniel-meireles-343821354
-- GitHub: https://github.com/DanielMeirelesSi
-- E-mail: daniel.meireles.pro@gmail.com
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=DanielMeirelesSi&icon=0&color=0" />
+  </a>
+</div>
