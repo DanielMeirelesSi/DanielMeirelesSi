@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Desenvolvedor Fullstack | C# | ASP.NET Core | SQL</b>
+  <b>Desenvolvedor Fullstack | C# | ASP.NET Core | SQL | Sistemas de Informação</b>
 </p>
 
 <p align="center">
