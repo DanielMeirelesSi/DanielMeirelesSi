@@ -49,22 +49,6 @@ Sou desenvolvedor full stack com foco em backend, APIs REST e sistemas web. Ante
 
 ---
 
-## Projetos em Destaque
-
-**[+Grana | Gestão Financeira](https://github.com/DanielMeirelesSi/MaisGrana)**
-Nasceu de um teste técnico e acabou premiado em 2º lugar num trabalho interdisciplinar da PUC Minas. Backend em NestJS com autenticação JWT e isolamento de dados por usuário, frontend em React com Vite e gráficos em Recharts, tudo rodando em três containers (web, API e banco) via Docker Compose. Tem dashboard consolidado, CRUD de gastos por categoria e controle de metas com barra de progresso.
-
-**[ServiceOrder](https://github.com/DanielMeirelesSi/ServiceOrder)**
-API REST para gerenciar ordens de serviço, feita em Java com Spring Boot e PostgreSQL e organizada em camadas. É o tipo de sistema que teria organizado a rotina de atendimento e reparos que eu tocava na loja da família.
-
-**[CinemaTicketsAPI](https://github.com/DanielMeirelesSi/CinemaTicketsAPI)**
-API REST em C# e ASP.NET Core para venda de ingressos e controle de sessões. O ponto central foi a regra que impede a venda duplicada do mesmo assento, com a lógica isolada em controllers, services e DTOs e documentação no Swagger.
-
-**[Gmail Agent WhatsApp | Assistente de E-mail](https://github.com/DanielMeirelesSi/Gmail_Agent_WhatsApp)**
-Projeto pessoal que inverte a lógica do e-mail: em vez de abrir a caixa de entrada, você pergunta pelo WhatsApp e recebe só o que importa, resumido. Backend em Node.js e Express integrando WhatsApp Cloud API, Gmail API com OAuth 2.0 e a API da OpenAI, com refresh de token, controle de eventos duplicados e mascaramento dos e-mails antes de passar pela IA.
-
----
-
 ## Formação
 
 Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Cursando desde 2025.
